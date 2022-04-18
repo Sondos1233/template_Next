@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+:root{
+  --main-color:rgb(83, 83, 83);
+  --bg-color:rgb(236, 236, 236)
+}
